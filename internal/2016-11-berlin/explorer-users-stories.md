@@ -1,6 +1,6 @@
 # OONI Explorer User Stories
 
-I'm a blogger (or journalist) and I want to include the graph I found out in
+I'm a blogger (or journalist) and I want to include the graph I found in
 the explorer page inside my page (like a widget) to have an interactive graph
 that links to the OONI page.
 
@@ -12,8 +12,8 @@ been blocked. Why are they not here?
 
 ---
 
-I am a user and I don't understand the "vendor" information. Where is this
-vendor, what is it doing?
+I am a user and I don't understand the "vendor" information. Where/Who is this
+vendor and what is it doing?
 
 ---
 
@@ -22,8 +22,8 @@ country to implement censorship so I can remediate for it.
 
 ---
 
-I am a DPI vendor and want to understand what technology is used in a country
-to see if I enter into the market.
+I am a DPI vendor and want to understand which technology is used in a country
+to see if I can/should enter its market.
 
 :anguished:
 
@@ -34,7 +34,7 @@ blocking start & end.
 
 ---
 
-I am a regulator, a country or a policy analyst want to know how effective my
+I am a regulator or a policy analyst who wants to know how effective my
 censorship (on what collateral damage) infrastructure is.
 
 ---
@@ -43,13 +43,13 @@ I have just heard of OONI and want to know more about it.
 
 ---
 
-A company (ex. BBC) wants to see how his different domains are treated all over
+A company wants to see how its different domains are treated all over
 the world to see if they are reachable.
 
 ---
 
 I'm a researcher and I want to get the raw data of a particular query to be
-able to analyse them myself.
+able to analyse it myself.
 
 ---
 
@@ -58,37 +58,35 @@ website over time so I can find evidence of censorship.
 
 ---
 
-I am Tor metrics researcher and notice something in Tor metrics data and want
+I am a Tor metrics researcher and notice something in Tor metrics data and want
 to understand what caused it.
 
 ---
 
-I'm an NGO worker (Freedom house) interested in knowing whether there is a
-high amount of human rights weebsites being blocked in country X.
+I'm an NGO worker interested in knowing whether there is a
+high amount of human rights websites being blocked in country X.
 
 ---
 
-I'm a sloppy journalist and only have five minutes to write an article on
-censosrhip in country X and don't care too much about it.
-
-:anguished:
+I'm a journalist and I only have 10 minutes to write an article on
+censorship in country X. Where can I find the gist of the findings?
 
 ---
 
-I'm a user that would like to see more measurements froma  specific country or
+I'm a user that would like to see more measurements from a specific country or
 region.
 
 ---
 
-I'm a ugandan lawyer and I want to challenge the government for blocking social
-media during the 2016 general elections. I need to find relevant OONI data that
+I'm a lawyer and I want to challenge my government for blocking social
+media during the elections. I need to find relevant OONI data that
 I can use as evidence.
 Format measurements so they can be used.
 
 ---
 
-I am a Zambian STASI officer and I'd like to track down all the users that help
-to measure censorship.
+I am from an intelligence agency and I'd like to track down all the users that help
+measure censorship.
 
 :anguished:
 
@@ -100,7 +98,7 @@ that it doesn't change in the future.
 ---
 
 I am a blogger and I want an RSS feed of latest interference measurements per
-country, because I want auto-generated thematic posts per country in my
+country, because I want auto-generated thematic posts per country on my
 website.
 
 ---
@@ -112,6 +110,6 @@ home.
 ---
 
 I am a user and I want to share with someone else the measurement I did so that
-he/she can verifiy the same test by running it poissibly in the same city from
+he/she can verifiy the same test by running it possibly in the same city from
 website.
 XXX something I cannot parse properly.
