@@ -18,7 +18,7 @@ Do we want to take the existing Lepidopter forward? Or do we want to have a new 
 
    Even if we get a supplier for resolving shipping etc., it will still require a fair amount of work. 
 
-3. Is this a product that there is a sizeable number of users that care about? By putting this product out there, does it being back a large number of measurements?
+3. Is this a product that there is a sizeable number of users that care about? By putting this product out there, does it bring back a large number of measurements?
 
 4. How do we support our partners during the months leading up to the deployment of the desktop apps?
 
