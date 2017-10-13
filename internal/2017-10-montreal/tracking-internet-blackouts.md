@@ -22,7 +22,7 @@ We should also send alerts to the user asking what's happening.
 
 We want to do a contextual pop-up in the edge cases --- to collect further evidence of blackouts.
 
-## Scenarios that look like internet blackouts but ARENT (and how do we detect the differences) / possible false positives:
+## Scenarios that look like internet blackouts but AREN'T (and how do we detect the differences) / possible false positives:
 
 1. Changing location and going somewhere without much internet access ---- how to capture geolocation in a privacy-preserving way? We should also record the speed!
 
