@@ -6,7 +6,7 @@ The only thing blocking on this front: How do we do this in a secure way? How do
 
 Probe orchestration roster: All orchestration requests are going to be signed with a hardware security module. When you create a request, you need to copy paste a command that spits out the orchestration request. You copy paste that into the web UI, and this is something that we send to clients.
 
-The hardcoded keys are in the app, that it is a valid orchestration request.
+The hardcoded keys are in the app, that can check the validity of an orchestration request.
 
 Rather than adding the complexity of certificate authorities, we push update of app and this allows us to add new people to the keys and handle revocation and updating of keys.
 
