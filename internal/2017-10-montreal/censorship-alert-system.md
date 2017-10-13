@@ -68,4 +68,6 @@ What are censorship events?
 
 9. There seems to be much less blocking in your country than normal
 
+(We did not reach consensus on whether a censorship event includes also the network inside the country.)
+
 Create tickets for the above.
