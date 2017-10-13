@@ -7,7 +7,7 @@ Knowledge sharing on MK. Attendees: sbs, darkk, and landers.
   we may want to support more old systems.
 
 - Another possibility for supporting old systems is to build also
-  the compiler and libc++ (i.e. a fully backport) aiming to produce
+  the compiler and libc++ (i.e. a full backport) aiming to produce
   libraries and possibly also a static binary.
 
 - The two C++11 (and hence C++14) features that we use the most are
