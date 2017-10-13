@@ -2,15 +2,15 @@
 
 1. Requesting the HTTP pages of all the domains around the world, and checking which ones RST connections.
 
-The idea is to identify anomalous measurements and then send those to OONI for further follow-up measurements (to determine whether or not they are actually blocked).
+   The idea is to identify anomalous measurements and then send those to OONI for further follow-up measurements (to determine whether or not they are actually blocked).
 
 2. Examining cases when servers block access from specific countries
 
-Looking at pages that will likely look different in specific countries. 
+   Looking at pages that will likely look different in specific countries. 
 
-This can be examined by using Web Connectivity with a custom test list (popular sites that may be blocking access from specific countries).
+   This can be examined by using Web Connectivity with a custom test list (popular sites that may be blocking access from specific countries).
 
-This will be examined globally, and not limited to embargoed countries. It will be a combination of technical and policy research. 
+   This will be examined globally, and not limited to embargoed countries. It will be a combination of technical and policy research. 
 
 3. Looking at the test list process --- generating more objective test lists, with less bias.
 
