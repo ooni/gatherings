@@ -54,7 +54,7 @@ You access the Airflow DAG UI, click on "Tree View", and then click on one of th
 
 The fingerprints are part of the schema. The reason for why it's part of schema updates is because we need a way to update that and you need some reference number for each fingerprint, and you want that to be preserved, etc. Eventually we will have some UI (when/if we have dozens of fingerprints per day). The way of storing fingerprints doesn't matter --- what matters is that they will need to be re-processed. 
 
-Fingerprints currently cannot be reprocessed for a single country -- that's quite good, because it allows you to detect them across countries, and censorship keaks are happening often. So enforcing whole data re-processing is actually good.
+Fingerprints currently cannot be reprocessed for a single country -- that's quite good, because it allows you to detect them across countries, and censorship leaks are happening often. So enforcing whole data re-processing is actually good.
 
 compat_code_ver and change where needed
 
