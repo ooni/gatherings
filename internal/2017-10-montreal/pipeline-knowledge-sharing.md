@@ -12,7 +12,7 @@ Sanitization procedure -- > Raw data is stored forever, but we sanitize it befor
 
 There are some sanitization checks that don't pass due to formatting reasons.
 
-Eventually the data ends up in postgress database. This is not the best database, but it's good enough. As the raw data storage increases, we will need to consider an alternative.
+Eventually the metadata ends up in postgress database. This is not the best database, but it's good enough. As the raw data storage increases, we will need to consider an alternative.
 
 How to run this:
 
