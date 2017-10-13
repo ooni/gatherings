@@ -10,7 +10,7 @@ We will set up a test lab in Kashmir --- we have a volunteer for this. He will r
 
 We will have root on this thing and we will be able to roll out experiments.
 
-We'll be using push notifications and we will have some kind of ping notification which will be initaited by us over probe orchestration. All this does is some background process and it expects to receive another one within a time interval and if it doesn't, then it enters some "OMG" state. Then it will start gathering data that can help us evaluate what is wrong.
+We'll be using push notifications and we will have some kind of ping notification which will be initiated by us over probe orchestration. All this does is some background process and it expects to receive another one within a time interval and if it doesn't, then it enters some "OMG" state. Then it will start gathering data that can help us evaluate what is wrong.
 
 What if it's connected to a network but it doesn't have data roaming enabled? What if it's in airplane mode? These things though can generally be detected from the mobile phone itself. 
 
