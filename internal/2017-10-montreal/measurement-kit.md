@@ -22,7 +22,7 @@ During this year, we would like to reach MK 1.0.0 ---> function required to impl
 
 	* Add support for HTTP2 (will use existing libraries)
 
-	* Integrate CRS as a DNS engine (will enable to craft and send our own packets, so very low level)
+	* Integrate c-ares as a DNS engine (will enable to craft and send our own packets, so very low level)
 
 	* Possibility to collect the TLS Hello (initial handshake of TLS) -- we need it to understand if there is SNI censorship
 
@@ -30,5 +30,5 @@ During this year, we would like to reach MK 1.0.0 ---> function required to impl
 
 5. Rapid response measurements (engine that you can give it information to trigger tests depending on what is needed) -- Modify the engine of Glasnost
 
-6. Support follow-up measuremnts (identifies follow-up measurements, logic inside of MK)
+6. Support follow-up measuremnts (identifies follow-up measurements, there was rought consensus on putting the logic inside of MK rather than outside it &mdash; i.e. internal rather than external DSL?)
 
