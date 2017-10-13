@@ -18,7 +18,7 @@ How to run this:
 
 The code is basically stored in a docker image, so you can use whatever software you like. Airflow is a bunch of python libraries with their own version and you don't want to have conflicts and resolve them. So you have to build a docker image to run the software.
 
-How do you add the docker image to a chain (like described below)? You upload the docker image to docker hub, and then make the pipeline run this image through operations with elevated privileges (Airflow does this through a wraper script, run with sudo). At the end of these basic checks and setups, docker runs something and that's it. 
+How do you add the docker image to a chain (like described below)? You upload the docker image to docker hub, and then make the pipeline run this image through operations with elevated privileges (we do this through a wrapper script, run with sudo). At the end of these basic checks and setups, docker runs something and that's it. 
 
 You update the version in the file, and then you deploy airflow. You can look at the source. DAG itself is maintained in sysadmin repo, because you need to maintain it somewhere. 
 
