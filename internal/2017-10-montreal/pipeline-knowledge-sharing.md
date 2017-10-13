@@ -32,7 +32,7 @@ DAG tasks:
 
 reports_raw_sensor ==> canning ==> reports_raw_cleanup ===> autoclaving ===> meta_pg ===> sanitized_check ===> sanitized_cleanup
 
-Canning = takes all the raw reports and puts them into larger tar files (more effective from compresion prospective)
+Canning = takes all the raw reports and puts them into larger tar files (more effective from compression prospective)
 
 Auto-claving == normalization and sanitization
 
