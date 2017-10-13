@@ -47,6 +47,6 @@ Knowledge sharing on MK. Attendees: sbs, darkk, and landers.
    us blockpages before we even start sending a request.
  
  - Decoupling classes or structures and the pointer modifier is good when
-   you want to give their user a choice. Otherwise, when you want to enforce
+   you want to give your user a choice. Otherwise, when you want to enforce
    a specific sharing (or non sharing) pattern, it is better to write a
    wrapper class (and perhaps call it `FooPtr` rather than `Foo`).
