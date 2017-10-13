@@ -14,7 +14,7 @@
 
 3. Looking at the test list process --- generating more objective test lists, with less bias.
 
-Take a list of newly registered domains (from last 24 hours) and test all of them. 
+   Take a list of newly registered domains (from last 24 hours) and test all of them. 
 
 ## Collaboration
 
