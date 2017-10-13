@@ -25,7 +25,8 @@ Knowledge sharing on MK. Attendees: sbs, darkk, and landers.
   lambda capture variables not needed outside.
 
 - With C++11 the pattern is simpler: we store all what we need inside
-  a struct managed through a shared pointer and we use `[=]`.
+  a struct managed through a shared pointer and we use `[=]` (i.e.
+  capture by copy of all referenced objects).
 
 - We generally avoid using objects for async operations and we use
   instead smart pointers to structs and functions. This way, we
