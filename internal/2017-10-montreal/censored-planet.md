@@ -4,7 +4,7 @@
 
    The idea is to identify anomalous measurements and then send those to OONI for further follow-up measurements (to determine whether or not they are actually blocked).
 
-2. Examining cases when servers block access from specific countries
+2. Examining cases when servers block access from specific countries.
 
    Looking at pages that will likely look different in specific countries. 
 
