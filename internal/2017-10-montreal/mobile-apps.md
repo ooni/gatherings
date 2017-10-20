@@ -1,6 +1,6 @@
 # Mobile apps
 
-IMPORTANT: continuous-integration testing (possibly implemented in node).
+IMPORTANT: end-to-end testing (possibly implemented in node).
 
 We need a way to coordinate the testing. Having a way to decide to have everything tested in one way prior and after a release.
 
