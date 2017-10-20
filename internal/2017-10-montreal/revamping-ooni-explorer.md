@@ -42,7 +42,7 @@ The new Dashboard can include the following types of information in the home pag
 
 2. Circumvention tools (Vanilla Tor, Bridge Reachability, etc.)
 
-3. Speed and performance (NDR and DASH)
+3. Speed and performance (NDT and DASH)
 
 4. Middleboxes
 
